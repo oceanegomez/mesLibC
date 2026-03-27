@@ -1,5 +1,5 @@
 /******************************************************************************
- * util_string.c
+ * util_string.c test
  *
  * Description :
  * Ensemble de fonctions pour la manipulation de chaînes de caractères.
